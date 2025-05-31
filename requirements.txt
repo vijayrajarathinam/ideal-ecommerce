@@ -1,0 +1,12 @@
+Django>=4.2,<5.0
+djangorestframework>3.14.0
+djangorestframework-simplejwt>=5.3.0
+djoser>=2.2.0                       # for all basic auth logic https://djoser.readthedocs.io/
+Pillow>=10.0.0                      # for image uploads
+stripe>=8.0.0                       # for payment processing
+python-dotenv>=1.0.0                # for managing secrets
+django-cors-headers>=4.0.0          # for cors
+phonenumbers>=8.13.0                # for validation phone numbers
+django-phonenumber-field>=7.0.0
+twilio>=9.0.0                       # for sms
+sendgrid>=6.10.0                    # for email
