@@ -1,2 +1,3 @@
 .venv
 .idea
+ecommerce/db.sqlite3
